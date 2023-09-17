@@ -8,3 +8,6 @@ Ivory
 Saúl 230916 20:35 intento 1
 México 230916 20:35 intento 1
 working on Git
+
+La prueba pasada se fue a git push origin origin/my-branch
+ahora esta prueba ira a git push origin my-branch para analizar destinos
